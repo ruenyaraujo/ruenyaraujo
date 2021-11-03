@@ -8,6 +8,9 @@
 
 ![Rueny Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=ruenyaraujo&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruenyaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que eu uso no dia a dia
 
 <div style="display: inline_block"><br/>
