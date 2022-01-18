@@ -6,18 +6,20 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruenyaraujo/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ0PlZFnK8UdPymXa-WgYYw)
 
-![Rueny Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=ruenyaraujo&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/ruenyaraujo">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruenyaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruenyaraujo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+ ## Tecnologias que eu uso no dia a dia
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruenyaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Tecnologias que eu uso no dia a dia
-
-<div style="display: inline_block"><br/>
-    <img text-align=center src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img text-align=center src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT">
-    <img text-align=center src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-
-</div><br/>
-
-Apaixonado por programçaão, educação e por mudar a vida das pessoas atravé da programação
+## Apaixonado por programçaão, educação e por mudar a vida das pessoas atravé da programação
