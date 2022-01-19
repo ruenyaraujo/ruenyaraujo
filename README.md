@@ -22,6 +22,6 @@
   
 
 
-## Apaixonado por programçaão, educação e por mudar a vida das pessoas atravé da programação
+## Apaixonado por programação, educação e por mudar a vida das pessoas através da programação
 
 ![Snake animation](https://github.com/ruenyaraujo/ruenyaraujo/blob/output/github-contribution-grid-snake.svg)
